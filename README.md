@@ -17,13 +17,23 @@ Instructional Videos, CVPR2022.
 - JRosaura G. VidalMata, Walter J. Scheirer, Anna Kukleva, David Cox, and Hilde Kuehne. Joint Visual-Temporal Embedding for Unsupervised Learning of Actions in Untrimmed Sequences, WACV2021. 
 [[pdf](https://openaccess.thecvf.com/content/WACV2021/papers/VidalMata_Joint_Visual-Temporal_Embedding_for_Unsupervised_Learning_of_Actions_in_Untrimmed_WACV_2021_paper.pdf)]
 
-- M. Saquib Sarfraz1, Naila Murray, Vivek Sharma, Ali Diba, Luc Van Gool, Rainer Stiefelhagen. Temporally-Weighted Hierarchical Clustering for Unsupervised Action Segmentation, CVPR2021. 
+- M. Saquib Sarfraz, Naila Murray, Vivek Sharma, Ali Diba, Luc Van Gool, Rainer Stiefelhagen. Temporally-Weighted Hierarchical Clustering for Unsupervised Action Segmentation, CVPR2021. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Sarfraz_Temporally_Weighted_Hierarchical_Clustering_for_Unsupervised_Action_Segmentation_CVPR_2021_paper.pdf)]
 [[code](https://github.com/ssarfraz/FINCH-Clustering/tree/master/TW-FINCH)]
 
 - Jun Li, Sinisa Todorovic. Action Shuffle Alternating Learning for Unsupervised Action Segmentation, CVPR2021. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Action_Shuffle_Alternating_Learning_for_Unsupervised_Action_Segmentation_CVPR_2021_paper.pdf)]
 
+- Jun Li, Sinisa Todorovic. Anchor-Constrained Viterbi for Set-Supervised Action Segmentation, CVPR2021. 
+[[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Anchor-Constrained_Viterbi_for_Set-Supervised_Action_Segmentation_CVPR_2021_paper.pdf)]
+
+## 2020
+- Jun Li, Sinisa Todorovic. Set-Constrained Viterbi for Set-Supervised Action Segmentation, CVPR2020. 
+[[pdf](https://arxiv.org/pdf/2002.11925.pdf)]
+
+- Daniel Fried, Jean-Baptiste Alayrac,Phil Blunsom, Chris Dyer, Stephen Clark, Aida Nematzadeh. Learning to Segment Actions from Observation and Narration, ACL2020. 
+[[pdf](https://arxiv.org/pdf/2005.03684.pdf)]
+[[code](https://github.com/dpfried/actionsegmentation)]
 
 ## 2019
 - Jun Li, Sinisa Todorovic. Weakly Supervised Energy-Based Learning for Action Segmentation, ICCV2019. 
@@ -40,4 +50,5 @@ Instructional Videos, CVPR2022.
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_NeuralNetwork-Viterbi_A_Framework_CVPR_2018_paper.pdf)]
 [[code](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)]
 
-
+- Alexander Richard, Hilde Kuehne, Juergen Gall. Action sets: Weakly supervised action segmentation without ordering constraints, CVPR2018. 
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)]
