@@ -1,4 +1,4 @@
-# AwesomeActionSegmentation
+# Awesome Weakly/Unsupervised Temporal Action Segmentation
 
 ## 2022
 - Zhe Wang, Hao Chen, Xinyu Li, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes, SSCAP: Self-supervised Co-occurrence Action Parsing
@@ -8,7 +8,6 @@ for Unsupervised Temporal Action Segmentation, WACV2022.
 - Reza Ghoddoosian, Isht Dwivedi, Nakul Agarwal, Chiho Choi, Behzad Dariush, Weakly-Supervised Online Action Segmentation in Multi-View
 Instructional Videos, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Ghoddoosian_Weakly-Supervised_Online_Action_Segmentation_in_Multi-View_Instructional_Videos_CVPR_2022_paper.pdf)]
-
 
 ## 2021
 - AJ Piergiovanni, Anelia Angelova, Michael S. Ryoo, Irfan Essa. Unsupervised Discovery of Actions in Instructional Videos, BMVC2021. 
@@ -42,8 +41,7 @@ Instructional Videos, CVPR2022.
 
 - Anna Kukleva, Hilde Kuehne, Fadime Sener, Juergen Gall. Unsupervised learning of action classes with continuous temporal embedding, CVPR2019. 
 [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kukleva_Unsupervised_Learning_of_Action_Classes_With_Continuous_Temporal_Embedding_CVPR_2019_paper.pdf)]
-[[code](https://github.com/JunLi-Galios/CDFL)]
-
+[[code](https://github.com/Annusha/unsup_temp_embed)]
 
 ## 2018
 - Alexander Richard, Hilde Kuehne, Ahsan Iqbal, Juergen Gall. NeuralNetwork-Viterbi: A Framework for Weakly Supervised Video Learning, CVPR2018. 
@@ -52,3 +50,7 @@ Instructional Videos, CVPR2022.
 
 - Alexander Richard, Hilde Kuehne, Juergen Gall. Action sets: Weakly supervised action segmentation without ordering constraints, CVPR2018. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)]
+
+## 2017
+- Alexander Richard, Hilde Kuehne, Juergen Gall. Weakly supervised action learning with rnn based fine-to-coarse modeling, CVPR2018. 
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Richard_Weakly_Supervised_Action_CVPR_2017_paper.pdf)]
