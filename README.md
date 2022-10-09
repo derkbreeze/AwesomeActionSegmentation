@@ -54,3 +54,10 @@ Instructional Videos, CVPR2022.
 ## 2017
 - Alexander Richard, Hilde Kuehne, Juergen Gall. Weakly supervised action learning with rnn based fine-to-coarse modeling, CVPR2018. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Richard_Weakly_Supervised_Action_CVPR_2017_paper.pdf)]
+
+## 2016
+- Jean-Baptiste Alayrac, Piotr Bojanowski, Nishant Agrawal, Josef Sivic, Ivan Laptev, and Simon Lacoste-Julien. Unsupervised learning from narrated instruction videos, CVPR2016.
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)]
+
+- De-An Huang, Feifei Li, Juan Carlos Niebles. Connectionist temporal modeling for weakly supervised action labeling. ECCV2016. 
+[[pdf](https://www-cs.stanford.edu/people/dahuang/papers/ECCV16-ECTC.pdf)]
