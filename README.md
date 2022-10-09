@@ -43,7 +43,13 @@ Instructional Videos, CVPR2022.
 [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kukleva_Unsupervised_Learning_of_Action_Classes_With_Continuous_Temporal_Embedding_CVPR_2019_paper.pdf)]
 [[code](https://github.com/Annusha/unsup_temp_embed)]
 
+- Chien-Yi Chang, De-An Huang, Yanan Sui, Li Fei-Fei, Juan Carlos Niebles. D3tw: Discriminative differentiable dynamic time warping for weakly supervised action alignment and segmentation, CVPR2019. 
+[[pdf (https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)]
+
 ## 2018
+- Fadime Sener, Angela Yao. Unsupervised learning and segmentation of complex activities from video, CVPR2018. 
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sener_Unsupervised_Learning_and_CVPR_2018_paper.pdf)]
+
 - Alexander Richard, Hilde Kuehne, Ahsan Iqbal, Juergen Gall. NeuralNetwork-Viterbi: A Framework for Weakly Supervised Video Learning, CVPR2018. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_NeuralNetwork-Viterbi_A_Framework_CVPR_2018_paper.pdf)]
 [[code](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)]
@@ -59,5 +65,9 @@ Instructional Videos, CVPR2022.
 - Jean-Baptiste Alayrac, Piotr Bojanowski, Nishant Agrawal, Josef Sivic, Ivan Laptev, and Simon Lacoste-Julien. Unsupervised learning from narrated instruction videos, CVPR2016.
 [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)]
 
-- De-An Huang, Feifei Li, Juan Carlos Niebles. Connectionist temporal modeling for weakly supervised action labeling. ECCV2016. 
+- De-An Huang, Feifei Li, Juan Carlos Niebles. Connectionist temporal modeling for weakly supervised action labeling, ECCV2016. 
 [[pdf](https://www-cs.stanford.edu/people/dahuang/papers/ECCV16-ECTC.pdf)]
+
+## 2015
+- Ozan Sener, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena. Unsupervised Semantic Parsing of Video Collections, ICCV2015. 
+[[pdf](https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf)]
