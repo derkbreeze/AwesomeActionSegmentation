@@ -71,3 +71,17 @@ Instructional Videos, CVPR2022.
 ## 2015
 - Ozan Sener, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena. Unsupervised Semantic Parsing of Video Collections, ICCV2015. 
 [[pdf](https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf)]
+
+# Features and Datasets
+
+## Breakfast Action
+- Hilde Kuehne, Ali Arslan, Thomas Serre. The language
+of actions: Recovering the syntax and semantics of goaldirected human activities, CVPR2014. 
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf)]
+
+## 50Salads
+- Sebastian Stein, Stephen J McKenna. Combining embedded accelerometers with computer vision for recognizing
+food preparation activities, In Proceedings of the 2013 ACM
+international joint conference on Pervasive and ubiquitous
+computing. 
+[[pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.8684&rep=rep1&type=pdf&ref=https://githubhelp.com)]
