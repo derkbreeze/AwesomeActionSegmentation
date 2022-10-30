@@ -72,6 +72,13 @@ Instructional Videos, CVPR2022.
 - Ozan Sener, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena. Unsupervised Semantic Parsing of Video Collections, ICCV2015. 
 [[pdf](https://openaccess.thecvf.com/content_iccv_2015/papers/Sener_Unsupervised_Semantic_Parsing_ICCV_2015_paper.pdf)]
 
+- Piotr Bojanowski, R. Lajugie, E Grave, Francois Bach, Ivan Laptev, Jean Ponce, Cordelia Schimid. Weakly-Supervised Alignment of Video With Text, ICCV2015. 
+[[pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Bojanowski_Weakly-Supervised_Alignment_of_ICCV_2015_paper.pdf)]
+
+## 2014
+- Piotr Bojanowski, R. Lajugie, Francois Bach, Ivan Laptev. Weakly supervised action labeling in videos under ordering constraints, ECCV2014. 
+[[pdf](https://link.springer.com/content/pdf/10.1007/978-3-319-10602-1_41.pdf)]
+
 # Features and Datasets
 
 ## Breakfast Action
