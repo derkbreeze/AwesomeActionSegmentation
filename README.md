@@ -1,6 +1,13 @@
 # Awesome Weakly/Unsupervised Temporal Action Segmentation
 
 ## 2022
+
+- Yaser Souri, Yazan Abu Farha, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Robust Action Segmentation from Timestamp Supervision, BMVC2022. 
+[[pdf](https://arxiv.org/pdf/2210.06501)]
+
+- Rahul Rahaman, Dipika Singhania, Alexandre Thiery, Angela Yao, A Generalized and Robust Framework for Timestamp Supervision in Temporal Action Segmentation, ECCV2022. 
+[[pdf](https://arxiv.org/pdf/2207.10137)]
+
 - Zhe Wang, Hao Chen, Xinyu Li, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes, SSCAP: Self-supervised Co-occurrence Action Parsing
 for Unsupervised Temporal Action Segmentation, WACV2022. 
 [[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf)]
