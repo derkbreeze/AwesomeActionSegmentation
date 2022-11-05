@@ -12,6 +12,9 @@
 for Unsupervised Temporal Action Segmentation, WACV2022. 
 [[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf)]
 
+- Wentao Bao, Qi Yu, Yu Kong, OpenTAL: Towards Open Set Temporal Action Localization, CVPR2022. 
+[[pdf](OpenTAL: Towards Open Set Temporal Action Localization)]
+
 - Reza Ghoddoosian, Isht Dwivedi, Nakul Agarwal, Chiho Choi, Behzad Dariush, Weakly-Supervised Online Action Segmentation in Multi-View
 Instructional Videos, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Ghoddoosian_Weakly-Supervised_Online_Action_Segmentation_in_Multi-View_Instructional_Videos_CVPR_2022_paper.pdf)]
@@ -85,6 +88,13 @@ Instructional Videos, CVPR2022.
 ## 2014
 - Piotr Bojanowski, R. Lajugie, Francois Bach, Ivan Laptev. Weakly supervised action labeling in videos under ordering constraints, ECCV2014. 
 [[pdf](https://link.springer.com/content/pdf/10.1007/978-3-319-10602-1_41.pdf)]
+
+-Hamed Pirsiavash, Deva Ramanan. Parsing videos of actions with segmental grammars, CVPR2014. 
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2014/papers/Pirsiavash_Parsing_Videos_of_2014_CVPR_paper.pdf)]
+
+-Nam N. Vo, Aaron F. Bobick. From Stochastic Grammar to Bayes Network:
+Probabilistic Parsing of Complex Activity, CVPR2014. 
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vo_From_Stochastic_Grammar_2014_CVPR_paper.pdf)]
 
 # Features and Datasets
 
