@@ -13,7 +13,7 @@ for Unsupervised Temporal Action Segmentation, WACV2022.
 [[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf)]
 
 - Wentao Bao, Qi Yu, Yu Kong, OpenTAL: Towards Open Set Temporal Action Localization, CVPR2022. 
-[[pdf](OpenTAL: Towards Open Set Temporal Action Localization)]
+[[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Bao_OpenTAL_Towards_Open_Set_Temporal_Action_Localization_CVPR_2022_paper.pdf)]
 
 - Reza Ghoddoosian, Isht Dwivedi, Nakul Agarwal, Chiho Choi, Behzad Dariush, Weakly-Supervised Online Action Segmentation in Multi-View
 Instructional Videos, CVPR2022. 
