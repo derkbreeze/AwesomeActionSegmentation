@@ -30,6 +30,9 @@ Instructional Videos, CVPR2022.
 [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Sarfraz_Temporally_Weighted_Hierarchical_Clustering_for_Unsupervised_Action_Segmentation_CVPR_2021_paper.pdf)]
 [[code](https://github.com/ssarfraz/FINCH-Clustering/tree/master/TW-FINCH)]
 
+- Zhe Li, Yazan Arbu Farha, Juergen Gall. Temporal Action Segmentation from Timestamp Supervision, CVPR2021. 
+[[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Temporal_Action_Segmentation_From_Timestamp_Supervision_CVPR_2021_paper.pdf)]
+
 - Jun Li, Sinisa Todorovic. Action Shuffle Alternating Learning for Unsupervised Action Segmentation, CVPR2021. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Action_Shuffle_Alternating_Learning_for_Unsupervised_Action_Segmentation_CVPR_2021_paper.pdf)]
 
@@ -68,7 +71,7 @@ Instructional Videos, CVPR2022.
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)]
 
 ## 2017
-- Alexander Richard, Hilde Kuehne, Juergen Gall. Weakly supervised action learning with rnn based fine-to-coarse modeling, CVPR2018. 
+- Alexander Richard, Hilde Kuehne, Juergen Gall. Weakly supervised action learning with rnn based fine-to-coarse modeling, CVPR2017. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Richard_Weakly_Supervised_Action_CVPR_2017_paper.pdf)]
 
 ## 2016
@@ -89,10 +92,10 @@ Instructional Videos, CVPR2022.
 - Piotr Bojanowski, R. Lajugie, Francois Bach, Ivan Laptev. Weakly supervised action labeling in videos under ordering constraints, ECCV2014. 
 [[pdf](https://link.springer.com/content/pdf/10.1007/978-3-319-10602-1_41.pdf)]
 
--Hamed Pirsiavash, Deva Ramanan. Parsing videos of actions with segmental grammars, CVPR2014. 
+- Hamed Pirsiavash, Deva Ramanan. Parsing videos of actions with segmental grammars, CVPR2014. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2014/papers/Pirsiavash_Parsing_Videos_of_2014_CVPR_paper.pdf)]
 
--Nam N. Vo, Aaron F. Bobick. From Stochastic Grammar to Bayes Network:
+- Nam N. Vo, Aaron F. Bobick. From Stochastic Grammar to Bayes Network:
 Probabilistic Parsing of Complex Activity, CVPR2014. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vo_From_Stochastic_Grammar_2014_CVPR_paper.pdf)]
 
