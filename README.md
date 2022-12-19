@@ -2,6 +2,10 @@
 
 ## 2022
 
+- Ziwei Xu, Yogesh S Rawat, Yongkang Wong, Mohan S Kankanhalli, Mubarak Shah, Don’t Pour Cereal into Coffee: Differentiable
+Temporal Logic for Temporal Action Segmentation, NeuriPS2022. 
+[[pdf](https://openreview.net/pdf?id=PCQyUvAmKs)]
+
 - Yaser Souri, Yazan Abu Farha, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Robust Action Segmentation from Timestamp Supervision, BMVC2022. 
 [[pdf](https://arxiv.org/pdf/2210.06501)]
 
