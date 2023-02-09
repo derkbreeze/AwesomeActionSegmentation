@@ -60,6 +60,10 @@ Weakly-Labeled Instructional Videos, WACV2022.
 [[pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)]
 [[code](https://github.com/JunLi-Galios/CDFL)]
 
+- Sathyanarayanan N. Aakur, Sudeep Sarkar. A perceptual prediction framework for self supervised event segmentation, CVPR2019. 
+[[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Aakur_A_Perceptual_Prediction_Framework_for_Self_Supervised_Event_Segmentation_CVPR_2019_paper.pdf)]
+[[code](https://github.com/saakur/EventSegmentation)]
+
 - Anna Kukleva, Hilde Kuehne, Fadime Sener, Juergen Gall. Unsupervised learning of action classes with continuous temporal embedding, CVPR2019. 
 [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kukleva_Unsupervised_Learning_of_Action_Classes_With_Continuous_Temporal_Embedding_CVPR_2019_paper.pdf)]
 [[code](https://github.com/Annusha/unsup_temp_embed)]
