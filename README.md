@@ -23,6 +23,10 @@ for Unsupervised Temporal Action Segmentation, WACV2022.
 Instructional Videos, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Ghoddoosian_Weakly-Supervised_Online_Action_Segmentation_in_Multi-View_Instructional_Videos_CVPR_2022_paper.pdf)]
 
+- Reza Ghoddoosian, Saif Sayed, Vassilis Athitsos, Hierarchical Modeling for Task Recognition and Action Segmentation in
+Weakly-Labeled Instructional Videos, WACV2022. 
+[[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Ghoddoosian_Hierarchical_Modeling_for_Task_Recognition_and_Action_Segmentation_in_Weakly-Labeled_WACV_2022_paper.pdf)]
+
 ## 2021
 - AJ Piergiovanni, Anelia Angelova, Michael S. Ryoo, Irfan Essa. Unsupervised Discovery of Actions in Instructional Videos, BMVC2021. 
 [[pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0773.pdf)]
