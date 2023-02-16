@@ -23,7 +23,11 @@ for Unsupervised Temporal Action Segmentation, WACV2022.
 Instructional Videos, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Ghoddoosian_Weakly-Supervised_Online_Action_Segmentation_in_Multi-View_Instructional_Videos_CVPR_2022_paper.pdf)]
 
-- Reza Ghoddoosian, Saif Sayed, Vassilis Athitsos, Hierarchical Modeling for Task Recognition and Action Segmentation in
+- Sateesh Kumar, Sanjay Haresh, Awais Ahmed, Andrey Konin, M. Zeeshan Zia, Quoc-Huy Tran. Unsupervised Action Segmentation by Joint Representation Learning and
+Online Clustering, CVPR2022. 
+[[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_Unsupervised_Action_Segmentation_by_Joint_Representation_Learning_and_Online_Clustering_CVPR_2022_paper.pdf)]
+
+- Reza Ghoddoosian, Saif Sayed, Vassilis Athitsos. Hierarchical Modeling for Task Recognition and Action Segmentation in
 Weakly-Labeled Instructional Videos, WACV2022. 
 [[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Ghoddoosian_Hierarchical_Modeling_for_Task_Recognition_and_Action_Segmentation_in_Weakly-Labeled_WACV_2022_paper.pdf)]
 
@@ -31,7 +35,11 @@ Weakly-Labeled Instructional Videos, WACV2022.
 - AJ Piergiovanni, Anelia Angelova, Michael S. Ryoo, Irfan Essa. Unsupervised Discovery of Actions in Instructional Videos, BMVC2021. 
 [[pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0773.pdf)]
 
-- JRosaura G. VidalMata, Walter J. Scheirer, Anna Kukleva, David Cox, and Hilde Kuehne. Joint Visual-Temporal Embedding for Unsupervised Learning of Actions in Untrimmed Sequences, WACV2021. 
+- Sirnam Swetha, Hilde Kuehne, Yogesh S Rawat, Mubarak Shah. Unsupervised discriminative embedding for
+sub-action learning in complex activitie, ICIP2021. 
+[[pdf](https://arxiv.org/abs/2105.00067)]
+
+- JRosaura G. VidalMata, Walter J. Scheirer, Anna Kukleva, David Cox, Hilde Kuehne. Joint Visual-Temporal Embedding for Unsupervised Learning of Actions in Untrimmed Sequences, WACV2021. 
 [[pdf](https://openaccess.thecvf.com/content/WACV2021/papers/VidalMata_Joint_Visual-Temporal_Embedding_for_Unsupervised_Learning_of_Actions_in_Untrimmed_WACV_2021_paper.pdf)]
 
 - M. Saquib Sarfraz, Naila Murray, Vivek Sharma, Ali Diba, Luc Van Gool, Rainer Stiefelhagen. Temporally-Weighted Hierarchical Clustering for Unsupervised Action Segmentation, CVPR2021. 
