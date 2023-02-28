@@ -77,7 +77,7 @@ sub-action learning in complex activitie, ICIP2021.
 [[code](https://github.com/Annusha/unsup_temp_embed)]
 
 - Chien-Yi Chang, De-An Huang, Yanan Sui, Li Fei-Fei, Juan Carlos Niebles. D3tw: Discriminative differentiable dynamic time warping for weakly supervised action alignment and segmentation, CVPR2019. 
-[[pdf (https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)]
+[[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)]
 
 ## 2018
 - Fadime Sener, Angela Yao. Unsupervised learning and segmentation of complex activities from video, CVPR2018. 
