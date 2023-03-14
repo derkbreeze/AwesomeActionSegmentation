@@ -1,7 +1,6 @@
 # Awesome Weakly/Unsupervised Temporal Action Segmentation
 
 ## 2022
-
 - Ziwei Xu, Yogesh S Rawat, Yongkang Wong, Mohan S Kankanhalli, Mubarak Shah, Don’t Pour Cereal into Coffee: Differentiable
 Temporal Logic for Temporal Action Segmentation, NeuriPS2022. 
 [[pdf](https://openreview.net/pdf?id=PCQyUvAmKs)]
@@ -11,10 +10,6 @@ Temporal Logic for Temporal Action Segmentation, NeuriPS2022.
 
 - Rahul Rahaman, Dipika Singhania, Alexandre Thiery, Angela Yao, A Generalized and Robust Framework for Timestamp Supervision in Temporal Action Segmentation, ECCV2022. 
 [[pdf](https://arxiv.org/pdf/2207.10137)]
-
-- Zhe Wang, Hao Chen, Xinyu Li, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes, SSCAP: Self-supervised Co-occurrence Action Parsing
-for Unsupervised Temporal Action Segmentation, WACV2022. 
-[[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf)]
 
 - Wentao Bao, Qi Yu, Yu Kong, OpenTAL: Towards Open Set Temporal Action Localization, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Bao_OpenTAL_Towards_Open_Set_Temporal_Action_Localization_CVPR_2022_paper.pdf)]
@@ -26,6 +21,13 @@ Instructional Videos, CVPR2022.
 - Sateesh Kumar, Sanjay Haresh, Awais Ahmed, Andrey Konin, M. Zeeshan Zia, Quoc-Huy Tran. Unsupervised Action Segmentation by Joint Representation Learning and
 Online Clustering, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_Unsupervised_Action_Segmentation_by_Joint_Representation_Learning_and_Online_Clustering_CVPR_2022_paper.pdf)]
+
+- Zexing Du, Xue Wang, Guoqing Zhou, Qing Wang. Fast and Unsupervised Action Boundary Detection for Action Segmentation, CVPR2022. 
+[[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Du_Fast_and_Unsupervised_Action_Boundary_Detection_for_Action_Segmentation_CVPR_2022_paper.pdf)]
+
+- Zhe Wang, Hao Chen, Xinyu Li, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes, SSCAP: Self-supervised Co-occurrence Action Parsing
+for Unsupervised Temporal Action Segmentation, WACV2022. 
+[[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf)]
 
 - Reza Ghoddoosian, Saif Sayed, Vassilis Athitsos. Hierarchical Modeling for Task Recognition and Action Segmentation in
 Weakly-Labeled Instructional Videos, WACV2022. 
