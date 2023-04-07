@@ -85,16 +85,16 @@ sub-action learning in complex activitie, ICIP2021.
 - Fadime Sener, Angela Yao. Unsupervised learning and segmentation of complex activities from video, CVPR2018. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sener_Unsupervised_Learning_and_CVPR_2018_paper.pdf)]
 
-- Li Ding, Chenliang Xu. Weakly-Supervised Action Segmentation with
-Iterative Soft Boundary Assignment, CVPR2018. 
-[[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Weakly-Supervised_Action_Segmentation_CVPR_2018_paper.pdf)]
-[[code](https://github.com/ld-ing/TCFPN-ISBA)]
+- Alexander Richard, Hilde Kuehne, Ahsan Iqbal, Juergen Gall. Neuralnetwork-viterbi: A framework for weakly supervised video learning, CVPR2018. 
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_NeuralNetwork-Viterbi_A_Framework_CVPR_2018_paper.pdf)][[code](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)]
 
 - Alexander Richard, Hilde Kuehne, Juergen Gall. Action sets: Weakly supervised action segmentation without ordering constraints, CVPR2018. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)]
 
-- Alexander Richard, Hilde Kuehne, Juergen Gall. Action sets: Weakly supervised action segmentation without ordering constraints, CVPR2018. 
+- Li Ding, Chenliang Xu. Weakly-Supervised Action Segmentation with
+Iterative Soft Boundary Assignment, CVPR2018. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Weakly-Supervised_Action_Segmentation_CVPR_2018_paper.pdf)]
+[[code](https://github.com/ld-ing/TCFPN-ISBA)]
 
 ## 2017
 - Alexander Richard, Hilde Kuehne, Juergen Gall. Weakly supervised action learning with rnn based fine-to-coarse modeling, CVPR2017. 
