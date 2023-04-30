@@ -34,6 +34,10 @@ Weakly-Labeled Instructional Videos, WACV2022.
 [[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Ghoddoosian_Hierarchical_Modeling_for_Task_Recognition_and_Action_Segmentation_in_Weakly-Labeled_WACV_2022_paper.pdf)]
 
 ## 2021
+- Nikita Dvornik, Isma Hadji, Konstantinos G. Derpanis, Animesh Garg, Allan D. Jepson. Drop-dtw: Aligning common signal between sequences while dropping outliers, NeuriPS2021. 
+[[pdf](https://proceedings.neurips.cc/paper/2021/file/729c68884bd359ade15d5f163166738a-Paper.pdf)]
+[[code](https://github.com/SamsungLabs/Drop-DTW)]
+
 - AJ Piergiovanni, Anelia Angelova, Michael S. Ryoo, Irfan Essa. Unsupervised Discovery of Actions in Instructional Videos, BMVC2021. 
 [[pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0773.pdf)]
 
