@@ -61,6 +61,13 @@ sub-action learning in complex activitie, ICIP2021.
 - Jun Li, Sinisa Todorovic. Anchor-Constrained Viterbi for Set-Supervised Action Segmentation, CVPR2021. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Anchor-Constrained_Viterbi_for_Set-Supervised_Action_Segmentation_CVPR_2021_paper.pdf)]
 
+- Yaser Souri, Yazan Abu Farha, Fabien Despinoy, Gianpiero Francesca, Juergen Gall. FIFA: Fast Inference Approximation for Action Segmentation, GCPR2021. 
+[[pdf](https://arxiv.org/pdf/2108.03894.pdf)]
+
+- Yaser Souri, Mohsen Fayyaz, Luca Minciullo, Gianpiero Francesca, Juergen Gall. Fast Weakly Supervised Action Segmentation Using Mutual Consistency, PAMI2021. 
+[[pdf](https://arxiv.org/pdf/1904.03116.pdf)]
+
+
 ## 2020
 - Jun Li, Sinisa Todorovic. Set-Constrained Viterbi for Set-Supervised Action Segmentation, CVPR2020. 
 [[pdf](https://arxiv.org/pdf/2002.11925.pdf)]
