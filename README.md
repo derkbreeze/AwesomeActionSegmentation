@@ -1,10 +1,6 @@
 # Awesome Weakly/Unsupervised Temporal Action Segmentation
 
 ## 2022
-- Ziwei Xu, Yogesh S Rawat, Yongkang Wong, Mohan S Kankanhalli, Mubarak Shah, Don’t Pour Cereal into Coffee: Differentiable
-Temporal Logic for Temporal Action Segmentation, NeuriPS2022. 
-[[pdf](https://openreview.net/pdf?id=PCQyUvAmKs)]
-
 - Yaser Souri, Yazan Abu Farha, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Robust Action Segmentation from Timestamp Supervision, BMVC2022. 
 [[pdf](https://arxiv.org/pdf/2210.06501)]
 
@@ -149,3 +145,7 @@ food preparation activities, In Proceedings of the 2013 ACM
 international joint conference on Pervasive and ubiquitous
 computing. 
 [[pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.8684&rep=rep1&type=pdf&ref=https://githubhelp.com)]
+
+## YouTube Instructional Videos
+- Jean-Baptiste Alayrac, Piotr Bojanowski, Nishant Agrawal, Josef Sivic, Ivan Laptev, and Simon Lacoste-Julien. Unsupervised learning from narrated instruction videos, CVPR2016.
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)]
