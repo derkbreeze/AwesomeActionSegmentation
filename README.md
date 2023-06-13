@@ -1,5 +1,10 @@
 # Awesome Weakly/Unsupervised Temporal Action Segmentation
 
+## 2023
+- Quoc-Huy Tran, Ahmed Mehmood, Muhammad Ahmed Muhammad Naufil, Anas Zafar Andrey Konin, M. Zeeshan Zia, Permutation-Aware Action Segmentation via Unsupervised Frame-to-Segment
+Alignment, arXiv2023. 
+[[pdf](https://arxiv.org/pdf/2305.19478.pdf)]
+
 ## 2022
 - Yaser Souri, Yazan Abu Farha, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Robust Action Segmentation from Timestamp Supervision, BMVC2022. 
 [[pdf](https://arxiv.org/pdf/2210.06501)]
@@ -70,7 +75,7 @@ sub-action learning in complex activitie, ICIP2021.
 
 - Daniel Fried, Jean-Baptiste Alayrac,Phil Blunsom, Chris Dyer, Stephen Clark, Aida Nematzadeh. Learning to Segment Actions from Observation and Narration, ACL2020. 
 [[pdf](https://arxiv.org/pdf/2005.03684.pdf)]
-[[code](https://github.com/dpfried/actionsegmentation)]
+[[code](https://github.com/dpfried/action-segmentation)]
 
 ## 2019
 - Jun Li, Sinisa Todorovic. Weakly Supervised Energy-Based Learning for Action Segmentation, ICCV2019. 
