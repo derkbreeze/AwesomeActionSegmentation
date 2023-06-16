@@ -50,7 +50,7 @@ sub-action learning in complex activitie, ICIP2021.
 [[pdf](https://openaccess.thecvf.com/content/WACV2021/papers/VidalMata_Joint_Visual-Temporal_Embedding_for_Unsupervised_Learning_of_Actions_in_Untrimmed_WACV_2021_paper.pdf)]
 
 - M. Saquib Sarfraz, Naila Murray, Vivek Sharma, Ali Diba, Luc Van Gool, Rainer Stiefelhagen. Temporally-Weighted Hierarchical Clustering for Unsupervised Action Segmentation, CVPR2021. 
-[[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Sarfraz_Temporally_Weighted_Hierarchical_Clustering_for_Unsupervised_Action_Segmentation_CVPR_2021_paper.pdf)]
+[[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Sarfraz_Temporally-Weighted_Hierarchical_Clustering_for_Unsupervised_Action_Segmentation_CVPR_2021_paper.pdf)]
 [[code](https://github.com/ssarfraz/FINCH-Clustering/tree/master/TW-FINCH)]
 
 - Zhe Li, Yazan Arbu Farha, Juergen Gall. Temporal Action Segmentation from Timestamp Supervision, CVPR2021. 
