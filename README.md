@@ -15,6 +15,11 @@ Alignment, arXiv2023.
 - Wentao Bao, Qi Yu, Yu Kong, OpenTAL: Towards Open Set Temporal Action Localization, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Bao_OpenTAL_Towards_Open_Set_Temporal_Action_Localization_CVPR_2022_paper.pdf)]
 
+- Zijia Lu, Ehsan Elhamifar. Set-Supervised Action Learning in Procedural Task Videos
+via Pairwise Order Consistency, CVPR2022. 
+[[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Set-Supervised_Action_Learning_in_Procedural_Task_Videos_via_Pairwise_Order_CVPR_2022_paper.pdf)]
+[[code](https://github.com/ZijiaLewisLu/CVPR22-POC)]
+
 - Reza Ghoddoosian, Isht Dwivedi, Nakul Agarwal, Chiho Choi, Behzad Dariush, Weakly-Supervised Online Action Segmentation in Multi-View
 Instructional Videos, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Ghoddoosian_Weakly-Supervised_Online_Action_Segmentation_in_Multi-View_Instructional_Videos_CVPR_2022_paper.pdf)]
