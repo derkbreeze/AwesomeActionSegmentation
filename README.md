@@ -31,12 +31,10 @@ Online Clustering, CVPR2022.
 - Zexing Du, Xue Wang, Guoqing Zhou, Qing Wang. Fast and Unsupervised Action Boundary Detection for Action Segmentation, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Du_Fast_and_Unsupervised_Action_Boundary_Detection_for_Action_Segmentation_CVPR_2022_paper.pdf)]
 
-- Zhe Wang, Hao Chen, Xinyu Li, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes, SSCAP: Self-supervised Co-occurrence Action Parsing
-for Unsupervised Temporal Action Segmentation, WACV2022. 
+- Zhe Wang, Hao Chen, Xinyu Li, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes, SSCAP: Self-supervised Co-occurrence Action Parsing for Unsupervised Temporal Action Segmentation, WACV2022. 
 [[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf)]
 
-- Reza Ghoddoosian, Saif Sayed, Vassilis Athitsos. Hierarchical Modeling for Task Recognition and Action Segmentation in
-Weakly-Labeled Instructional Videos, WACV2022. 
+- Reza Ghoddoosian, Saif Sayed, Vassilis Athitsos. Hierarchical Modeling for Task Recognition and Action Segmentation in Weakly-Labeled Instructional Videos, WACV2022. 
 [[pdf](https://openaccess.thecvf.com/content/WACV2022/papers/Ghoddoosian_Hierarchical_Modeling_for_Task_Recognition_and_Action_Segmentation_in_Weakly-Labeled_WACV_2022_paper.pdf)]
 
 ## 2021
@@ -60,6 +58,7 @@ sub-action learning in complex activitie, ICIP2021.
 
 - Zhe Li, Yazan Arbu Farha, Juergen Gall. Temporal Action Segmentation from Timestamp Supervision, CVPR2021. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Temporal_Action_Segmentation_From_Timestamp_Supervision_CVPR_2021_paper.pdf)]
+[[code](https://github.com/ZheLi2020/TimestampActionSeg)]
 
 - Jun Li, Sinisa Todorovic. Action Shuffle Alternating Learning for Unsupervised Action Segmentation, CVPR2021. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Action_Shuffle_Alternating_Learning_for_Unsupervised_Action_Segmentation_CVPR_2021_paper.pdf)]
@@ -109,10 +108,9 @@ sub-action learning in complex activitie, ICIP2021.
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_NeuralNetwork-Viterbi_A_Framework_CVPR_2018_paper.pdf)][[code](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)]
 
 - Alexander Richard, Hilde Kuehne, Juergen Gall. Action sets: Weakly supervised action segmentation without ordering constraints, CVPR2018. 
-[[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)]
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)][[code](https://github.com/alexanderrichard/action-sets)]
 
-- Li Ding, Chenliang Xu. Weakly-Supervised Action Segmentation with
-Iterative Soft Boundary Assignment, CVPR2018. 
+- Li Ding, Chenliang Xu. Weakly-Supervised Action Segmentation with Iterative Soft Boundary Assignment, CVPR2018. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Weakly-Supervised_Action_Segmentation_CVPR_2018_paper.pdf)]
 [[code](https://github.com/ld-ing/TCFPN-ISBA)]
 
@@ -143,7 +141,8 @@ Iterative Soft Boundary Assignment, CVPR2018.
 
 - Nam N. Vo, Aaron F. Bobick. From Stochastic Grammar to Bayes Network:
 Probabilistic Parsing of Complex Activity, CVPR2014. 
-[[pdf](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vo_From_Stochastic_Grammar_2014_CVPR_paper.pdf)]
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vo_From_Stochastic_Grammar_2014_CVPR_paper.pdf)][[code](https://lugiavn.github.io/gatech/sin/)]
+
 
 # Features and Datasets
 
@@ -154,11 +153,9 @@ of actions: Recovering the syntax and semantics of goaldirected human activities
 
 ## 50Salads
 - Sebastian Stein, Stephen J McKenna. Combining embedded accelerometers with computer vision for recognizing
-food preparation activities, In Proceedings of the 2013 ACM
-international joint conference on Pervasive and ubiquitous
-computing. 
+food preparation activities, In Proceedings of the 2013 ACM international joint conference on Pervasive and ubiquitous computing. 
 [[pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.371.8684&rep=rep1&type=pdf&ref=https://githubhelp.com)]
 
 ## YouTube Instructional Videos
-- Jean-Baptiste Alayrac, Piotr Bojanowski, Nishant Agrawal, Josef Sivic, Ivan Laptev, and Simon Lacoste-Julien. Unsupervised learning from narrated instruction videos, CVPR2016.
+- Jean-Baptiste Alayrac, Piotr Bojanowski, Nishant Agrawal, Josef Sivic, Ivan Laptev, Simon Lacoste-Julien. Unsupervised learning from narrated instruction videos, CVPR2016.
 [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)]
