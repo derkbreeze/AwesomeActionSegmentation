@@ -102,7 +102,7 @@ sub-action learning in complex activitie, ICIP2021.
 
 ## 2018
 - Fadime Sener, Angela Yao. Unsupervised learning and segmentation of complex activities from video, CVPR2018. 
-[[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sener_Unsupervised_Learning_and_CVPR_2018_paper.pdf)]
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sener_Unsupervised_Learning_and_CVPR_2018_paper.pdf)][[code](https://github.com/Annusha/slim_mallow)]
 
 - Alexander Richard, Hilde Kuehne, Ahsan Iqbal, Juergen Gall. Neuralnetwork-viterbi: A framework for weakly supervised video learning, CVPR2018. 
 [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_NeuralNetwork-Viterbi_A_Framework_CVPR_2018_paper.pdf)][[code](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)]
