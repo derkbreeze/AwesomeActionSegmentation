@@ -1,6 +1,9 @@
 # Awesome Weakly/Unsupervised Temporal Action Segmentation
 
 ## 2023
+- Fan Yang, Shigeyuki Odashima, Shoichi Masui, Shan Jiang, Is Weakly-supervised Action Segmentation Ready For Human Robot Interaction?No, Let's Improve it With Action-Union Learning, IROS2023. 
+[[pdf](https://www.researchgate.net/publication/372548891_Is_Weakly-supervised_Action_Segmentation_Ready_For_Human-Robot_Interaction_No_Let's_Improve_It_With_Action-union_Learning)]
+
 - Quoc-Huy Tran, Ahmed Mehmood, Muhammad Ahmed Muhammad Naufil, Anas Zafar Andrey Konin, M. Zeeshan Zia, Permutation-Aware Action Segmentation via Unsupervised Frame-to-Segment
 Alignment, arXiv2023. 
 [[pdf](https://arxiv.org/pdf/2305.19478.pdf)]
@@ -75,7 +78,7 @@ sub-action learning in complex activitie, ICIP2021.
 
 ## 2020
 - Jun Li, Sinisa Todorovic. Set-Constrained Viterbi for Set-Supervised Action Segmentation, CVPR2020. 
-[[pdf](https://arxiv.org/pdf/2002.11925.pdf)]
+[[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Set-Constrained_Viterbi_for_Set-Supervised_Action_Segmentation_CVPR_2020_paper.pdf)]
 
 - Daniel Fried, Jean-Baptiste Alayrac,Phil Blunsom, Chris Dyer, Stephen Clark, Aida Nematzadeh. Learning to Segment Actions from Observation and Narration, ACL2020. 
 [[pdf](https://arxiv.org/pdf/2005.03684.pdf)]
