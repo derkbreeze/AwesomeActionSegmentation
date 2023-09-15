@@ -30,6 +30,7 @@ Instructional Videos, CVPR2022.
 - Sateesh Kumar, Sanjay Haresh, Awais Ahmed, Andrey Konin, M. Zeeshan Zia, Quoc-Huy Tran. Unsupervised Action Segmentation by Joint Representation Learning and
 Online Clustering, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_Unsupervised_Action_Segmentation_by_Joint_Representation_Learning_and_Online_Clustering_CVPR_2022_paper.pdf)]
+[[code](https://github.com/trquhuytin/TOT-CVPR22)]
 
 - Zexing Du, Xue Wang, Guoqing Zhou, Qing Wang. Fast and Unsupervised Action Boundary Detection for Action Segmentation, CVPR2022. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Du_Fast_and_Unsupervised_Action_Boundary_Detection_for_Action_Segmentation_CVPR_2022_paper.pdf)]
