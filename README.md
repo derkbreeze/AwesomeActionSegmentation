@@ -1,12 +1,24 @@
 # Awesome Weakly/Unsupervised Temporal Action Segmentation
 
+## 2024
+- Anchi Xu, Weishi Zheng, Efficient and Effective Weakly-Supervised Action Segmentation via Action-Transition-Aware Boundary Alignment, CVPR2024.
+[[pdf](https://arxiv.org/pdf/2403.19225.pdf)]
+[[code](https://github.com/iSEE-Laboratory/CVPR24_ATBA)]
+
+- Ming Xu, Stephen Gould, Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation, CVPR2024.
+[[pdf](https://arxiv.org/pdf/2404.01518.pdf)]
+[[code](https://github.com/mingu6/action_seg_ot)]
+
+- Quoc-Huy Tran, Ahmed Mehmood, Muhammad Ahmed, Muhammad Naufil, Anas Zafar, Andrey Konin, M. Zeeshan Zia, Permutation-Aware Activity Segmentation via Unsupervised Frame-to-Segment
+Alignment, WACV2024.
+[[pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Tran_Permutation-Aware_Activity_Segmentation_via_Unsupervised_Frame-To-Segment_Alignment_WACV_2024_paper.pdf)]
+
+- Roy Hirsch, Regev Cohen, Tomer Golany, Daniel Freedman, Ehud Rivlin, Random Walks for Temporal Action Segmentation with Timestamp Supervision, WACV2024. 
+[[pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Hirsch_Random_Walks_for_Temporal_Action_Segmentation_With_Timestamp_Supervision_WACV_2024_paper.pdf)]
+
 ## 2023
 - Fan Yang, Shigeyuki Odashima, Shoichi Masui, Shan Jiang, Is Weakly-supervised Action Segmentation Ready For Human Robot Interaction?No, Let's Improve it With Action-Union Learning, IROS2023. 
 [[pdf](https://www.researchgate.net/publication/372548891_Is_Weakly-supervised_Action_Segmentation_Ready_For_Human-Robot_Interaction_No_Let's_Improve_It_With_Action-union_Learning)]
-
-- Quoc-Huy Tran, Ahmed Mehmood, Muhammad Ahmed Muhammad Naufil, Anas Zafar Andrey Konin, M. Zeeshan Zia, Permutation-Aware Action Segmentation via Unsupervised Frame-to-Segment
-Alignment, arXiv2023. 
-[[pdf](https://arxiv.org/pdf/2305.19478.pdf)]
 
 ## 2022
 - Yaser Souri, Yazan Abu Farha, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Robust Action Segmentation from Timestamp Supervision, BMVC2022. 
