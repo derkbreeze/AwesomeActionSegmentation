@@ -1,5 +1,10 @@
 # Awesome Weakly/Unsupervised Temporal Action Segmentation
 
+## 2025
+- Federico Spurio, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Hierarchical Vector Quantization for Unsupervised Action Segmentation, AAAI2025.
+[[pdf](https://arxiv.org/pdf/2412.17640?)]
+[[code](https://github.com/FedeSpu/HVQ)]
+
 ## 2024
 - Anchi Xu, Weishi Zheng, Efficient and Effective Weakly-Supervised Action Segmentation via Action-Transition-Aware Boundary Alignment, CVPR2024.
 [[pdf](https://arxiv.org/pdf/2403.19225.pdf)]
@@ -15,6 +20,7 @@ Alignment, WACV2024.
 
 - Roy Hirsch, Regev Cohen, Tomer Golany, Daniel Freedman, Ehud Rivlin, Random Walks for Temporal Action Segmentation with Timestamp Supervision, WACV2024. 
 [[pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Hirsch_Random_Walks_for_Temporal_Action_Segmentation_With_Timestamp_Supervision_WACV_2024_paper.pdf)]
+[[code](https://github.com/RoyHirsch/RWS)]
 
 ## 2023
 - Fan Yang, Shigeyuki Odashima, Shoichi Masui, Shan Jiang, Is Weakly-supervised Action Segmentation Ready For Human Robot Interaction?No, Let's Improve it With Action-Union Learning, IROS2023. 
