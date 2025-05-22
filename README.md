@@ -101,6 +101,10 @@ $\color{magenta} \text{Timestep\ supervised}$
 [[code](https://github.com/ZijiaLewisLu/ICCV21-TASL)]
 $\color{blue} \text{Ordered\ transcript\ supervised}$
 
+- Xiaobin Chang, Frederick Tung, Greg Mori. Learning discriminative prototypes with dynamic time warping, CVPR2021. 
+[[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Learning_Discriminative_Prototypes_With_Dynamic_Time_Warping_CVPR_2021_paper.pdf)]
+$\color{blue} \text{Ordered\ transcript\ supervised}$
+
 - Jun Li, Sinisa Todorovic. Action Shuffle Alternating Learning for Unsupervised Action Segmentation, CVPR2021. 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Action_Shuffle_Alternating_Learning_for_Unsupervised_Action_Segmentation_CVPR_2021_paper.pdf)]
 $\color{red} \text{Unsupervised}$
