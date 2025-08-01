@@ -1,8 +1,17 @@
 # Awesome Weakly/Unsupervised Temporal Action Segmentation
 
 ## 2025
+
+- Ali Shah Ali, Syed Ahmed Mahmood, Mubin Saeed Andrey Konin, M. Zeeshan Zia, Quoc-Huy Tran, Joint Self-Supervised Video Alignment and Action Segmentation, ICCV2025.
+[[pdf](https://arxiv.org/pdf/2503.16832)]
+$\color{red} \text{Unsupervised}$
+
+- Elena Bueno-Benito, Mariella Dimiccoli, CLOT: Closed Loop Optimal Transport for Unsupervised Action Segmentation, ICCV2025.
+[[pdf](https://arxiv.org/pdf/2507.03539)]
+$\color{red} \text{Unsupervised}$
+
 - Federico Spurio, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Hierarchical Vector Quantization for Unsupervised Action Segmentation, AAAI2025.
-[[pdf](https://arxiv.org/pdf/2412.17640?)]
+[[pdf](https://arxiv.org/pdf/2412.17640)]
 [[code](https://github.com/FedeSpu/HVQ)]
 $\color{red} \text{Unsupervised}$
 
