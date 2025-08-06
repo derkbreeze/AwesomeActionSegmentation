@@ -44,8 +44,8 @@ $\color{magenta} \text{Timestep\ supervised}$
 
 ## 2022
 - Yaser Souri, Yazan Abu Farha, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Robust Action Segmentation from Timestamp Supervision, BMVC2022.
-- [[code](https://github.com/yassersouri/robust_seg)]
-[[pdf](https://arxiv.org/pdf/2210.06501)]
+  [[pdf](https://arxiv.org/pdf/2210.06501)]
+  [[code](https://github.com/yassersouri/robust_seg)]
 $\color{magenta} \text{Timestep\ supervised}$
 
 - Rahul Rahaman, Dipika Singhania, Alexandre Thiery, Angela Yao, A Generalized and Robust Framework for Timestamp Supervision in Temporal Action Segmentation, ECCV2022. 
