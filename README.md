@@ -1,4 +1,4 @@
-# Awesome Weakly/Unsupervised Temporal Action Segmentation
+# Awesome weakly&&unsupervised temporal action segmentation
 
 ## 2025
 
@@ -8,6 +8,7 @@ $\color{red} \text{Unsupervised}$
 
 - Elena Bueno-Benito, Mariella Dimiccoli, CLOT: Closed Loop Optimal Transport for Unsupervised Action Segmentation, ICCV2025.
 [[pdf](https://arxiv.org/pdf/2507.03539)]
+[[code](https://github.com/elenabbbuenob/CLOT)]
 $\color{red} \text{Unsupervised}$
 
 - Federico Spurio, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Hierarchical Vector Quantization for Unsupervised Action Segmentation, AAAI2025.
@@ -42,7 +43,8 @@ $\color{magenta} \text{Timestep\ supervised}$
 $\color{magenta} \text{Timestep\ supervised}$
 
 ## 2022
-- Yaser Souri, Yazan Abu Farha, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Robust Action Segmentation from Timestamp Supervision, BMVC2022. 
+- Yaser Souri, Yazan Abu Farha, Emad Bahrami, Gianpiero Francesca, Juergen Gall, Robust Action Segmentation from Timestamp Supervision, BMVC2022.
+- [[code](https://github.com/yassersouri/robust_seg)]
 [[pdf](https://arxiv.org/pdf/2210.06501)]
 $\color{magenta} \text{Timestep\ supervised}$
 
@@ -128,6 +130,7 @@ $\color{blue} \text{Ordered\ transcript\ supervised}$
 
 - Yaser Souri, Mohsen Fayyaz, Luca Minciullo, Gianpiero Francesca, Juergen Gall. Fast Weakly Supervised Action Segmentation Using Mutual Consistency, PAMI2021. 
 [[pdf](https://arxiv.org/pdf/1904.03116.pdf)]
+[[code](https://github.com/yassersouri/MuCon)]
 $\color{blue} \text{Ordered\ transcript\ supervised}$
 
 ## 2020
