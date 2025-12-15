@@ -50,6 +50,12 @@ $\color{magenta} \text{Timestep\ supervised}$
   [[code](https://github.com/yassersouri/robust_seg)]
 $\color{magenta} \text{Timestep\ supervised}$
 
+- Nadine Behrmann, S. Alireza Golestaneh, Zico Kolter, Juergen Gall, Mehdi Norooz, Unified Fully and Timestamp Supervised Temporal
+Action Segmentation via Sequence to Sequence Translation, ECCV2022. 
+[[pdf](https://arxiv.org/pdf/2209.00638)]
+[[code](https://github.com/boschresearch/UVAST)]
+$\color{magenta} \text{Timestep\ supervised}$
+
 - Rahul Rahaman, Dipika Singhania, Alexandre Thiery, Angela Yao, A Generalized and Robust Framework for Timestamp Supervision in Temporal Action Segmentation, ECCV2022. 
 [[pdf](https://arxiv.org/pdf/2207.10137)]
 $\color{magenta} \text{Timestep\ supervised}$
