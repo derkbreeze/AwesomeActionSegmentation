@@ -1,5 +1,12 @@
 # Awesome weakly&&unsupervised temporal action segmentation
 
+## 2026
+
+- Tieqiao Wang, Sinisa Todorovic, Timestamp Query Transformer for Temporal Action Segmentation, WACV2026. 
+[[pdf](https://web.engr.oregonstate.edu/~wangtie/files/WACV26_TQT.pdf)]
+[[code]([https://github.com/RoyHirsch/RWS](https://github.com/tqosu/TQT))]
+$\color{magenta} \text{Timestep\ supervised}$
+
 ## 2025
 
 - Ali Shah Ali, Syed Ahmed Mahmood, Mubin Saeed Andrey Konin, M. Zeeshan Zia, Quoc-Huy Tran, Joint Self-Supervised Video Alignment and Action Segmentation, ICCV2025.
